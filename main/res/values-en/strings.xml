@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ActivePlan</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="addworkout">Add Workout</string>
+    <string name="edit_schedule">Edit Schedule</string>
+    <string name="Mon">Mon</string>
+    <string name="Tue">Tue</string>
+    <string name="Wed">Wed</string>
+    <string name="Thu">Thur</string>
+    <string name="Fri">Fri</string>
+    <string name="Sat">Sat</string>
+    <string name="Sun">Sun</string>
+    <string name="leg_day">Leg Day</string>
+    <string name="save_edit">Save edit</string>
+    <string name="back">Back</string>
+    <string name="notes">Notes</string>
+    <string name="day">Day</string>
+    <string name="workout">Workout</string>
+    <string name="sign_out">Sign out</string>
+    <string name="to_workout">To Workout!</string>
+</resources>

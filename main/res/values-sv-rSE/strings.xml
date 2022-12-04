@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ActivePlan</string>
+    <string name="username">Användarnamn</string>
+    <string name="password">Lösenord</string>
+    <string name="log_in">Logga in</string>
+    <string name="addworkout">Lägg till</string>
+    <string name="edit_schedule">Lägg till i träningsplan</string>
+    <string name="workout">Träning</string>
+    <string name="save_edit">Spara</string>
+    <string name="back">Tillbaka</string>
+    <string name="notes">Anteckningar</string>
+    <string name="day">Dag</string>
+    <string name="sign_out">Logga ut</string>
+    <string name="to_workout">Till träning!</string>
+</resources>
